@@ -7,12 +7,12 @@ the command line usage is as follows:
 
 `./combination-calculator <n> <r> <--latex> `
 
-Where you can replace "./combination-calculator" with the name of your executable. If you're on a Windows machine, note that you should omit the "./" in front of the executable.
-The <n> argument is the number of things to choose from.
-The <r> argument is the number of things you're choosing from n.
-The <--latex> argument is an option that will output a preformatted string that you can plug into your LaTeX files.
+Where you can replace "`./combination-calculator`" with the name of your executable. If you're on a Windows machine, note that you should omit the "`./`" in front of the executable.
+The `<n>` argument is the number of things to choose from.
+The `<r>` argument is the number of things you're choosing from n.
+The `<--latex>` argument is an option that will output a preformatted string that you can plug into your LaTeX files.
 
-The LaTeX is output using the command \binom{}{} which is a part of the package 'amsmath'. You will need to add the package to your preamble.
+The LaTeX is output using the command `\binom{}{}` which is a part of the package `amsmath`. You will need to add the package to your preamble.
 
 ## Examples:
 Command Line Arguments: 
