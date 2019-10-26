@@ -5,7 +5,7 @@ This calculator is used to calculate the combination of n things taken k at a ti
 To use this program, please compile using gcc on your machine.
 the command line usage is as follows:
 
-    `./combination-calculator <n> <r> <--latex> `
+`./combination-calculator <n> <r> <--latex> `
 
 Where you can replace "./combination-calculator" with the name of your executable. If you're on a Windows machine, note that you should omit the "./" in front of the executable.
 The <n> argument is the number of things to choose from.
