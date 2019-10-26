@@ -15,16 +15,7 @@ The <--latex> argument is an option that will output a preformatted string that 
 The LaTeX is output using the command \binom{}{} which is a part of the package 'amsmath'. You will need to add the package to your preamble.
 
 ## Examples:
-Command Line Arguments:
-<<<<<<< HEAD
-![An example of execution](/etc/ex.PNG)
-
-LaTeX command:
-![An example of the output LaTeX command](/etc/latex.PNG)
-
-LaTeX output:
-![An example of the output LaTeX file](/etc/latex-result.PNG)
-=======
+Command Line Arguments: 
 
 ![An example of execution](/etc/demo.png)
 
@@ -35,4 +26,5 @@ LaTeX command:
 LaTeX output:
 
 ![An example of the output LaTeX file](/etc/latex-result.png)
->>>>>>> Provides the correct images and fixes resulting formatting issues in README
+
+
