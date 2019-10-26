@@ -28,3 +28,5 @@ LaTeX output:
 ![An example of the output LaTeX file](/etc/latex-result.PNG)
 
 
+## Functions:
+There are 3 files that allow a user to incorporate the combination as functions into their programs as needed (`combination-funcs.h` `combination-funcs.c`, and `combination-funcs-main.c`). The `combination-funcs-main.c` file contains examples on how to call the functions. They are ready to be used in your project. The only thing missing from them presently is input validation, which is located in `combination-funcs-main.c`.
