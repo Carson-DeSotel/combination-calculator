@@ -26,6 +26,10 @@ long getDenominator(int n, int r){
   return denominator;
 }
 
+int getCombination(int n, int r){
+  return getNumerator(n) / getDenominator(n, r);
+}
+
 char* latex(int n, int r){
   int result = n / r;
   char* latex = malloc(128);

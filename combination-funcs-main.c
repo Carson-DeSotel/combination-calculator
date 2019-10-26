@@ -33,7 +33,7 @@ int main(int argc, char* argv[]){
   long numerator = getNumerator(n);
   long denominator = getDenominator(n, r);
 
-  long result = numerator / denominator;
+  long result = getCombination(n, r);
 
   printf("NUMERATOR: %ld\n", numerator);
   printf("DENOMINATOR: %ld\n", denominator);
