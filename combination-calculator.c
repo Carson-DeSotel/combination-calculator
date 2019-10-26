@@ -53,7 +53,7 @@ int main(int argc, char* argv[]){
 
   if(argc > 2){
     if(strcmp(argv[3], "--latex") == 0){
-      printf("$ \\binom{%d}{%d} = \\frac{%d!}{%d!(%d - %d) = %f } $",
+      printf("$ \\binom{%d}{%d} = \\frac{%d!}{%d!(%d - %d)} = %ld $",
               n, r, n, r, n, r, result);
     }
   }
