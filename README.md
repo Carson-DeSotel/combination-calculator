@@ -16,6 +16,7 @@ The LaTeX is output using the command \binom{}{} which is a part of the package 
 
 ## Examples:
 Command Line Arguments:
+<<<<<<< HEAD
 ![An example of execution](/etc/ex.PNG)
 
 LaTeX command:
@@ -23,3 +24,15 @@ LaTeX command:
 
 LaTeX output:
 ![An example of the output LaTeX file](/etc/latex-result.PNG)
+=======
+
+![An example of execution](/etc/demo.png)
+
+LaTeX command:
+
+![An example of the output LaTeX command](/etc/latex.png)
+
+LaTeX output:
+
+![An example of the output LaTeX file](/etc/latex-result.png)
+>>>>>>> Provides the correct images and fixes resulting formatting issues in README
