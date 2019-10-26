@@ -16,10 +16,10 @@ The LaTeX is output using the command \binom{}{} which is a part of the package 
 
 ## Examples:
 Command Line Arguments:
-![An example of execution](/etc/ex.png)
+![An example of execution](/etc/ex.PNG)
 
 LaTeX command:
-![An example of the output LaTeX command](/etc/latex.png)
+![An example of the output LaTeX command](/etc/latex.PNG)
 
 LaTeX output:
-![An example of the output LaTeX file](/etc/latex-result.png)
+![An example of the output LaTeX file](/etc/latex-result.PNG)
